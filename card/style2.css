@@ -9,7 +9,7 @@ html {
     background-color: #ccc;
 }
 
-/* Selectors to be matched up with rulesets */
+/* Selectors to be matched up with rule-sets */
 /* Specificity: 
     /* .card article img = 012 */
     /* .card footer = 011 */
@@ -44,7 +44,7 @@ html {
   
 .card article p {
     padding-left: 0.625em; /* Adjust padding for better alignment */
-    color: #ffffff; /* Set text color to light */
+    color: #f8e2de; /* Set text color to light */
 }
 
 .card article img {
